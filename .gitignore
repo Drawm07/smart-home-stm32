@@ -1,0 +1,10 @@
+# Build CubeIDE (généré à chaque compilation)
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.bin
+*.hex
